@@ -17,7 +17,7 @@ header {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 50px;
     margin: 15px 0 0 0;
 }
 
@@ -27,6 +27,32 @@ h1 {
     color: rgb(128, 128, 128);
  }
  
- #htext {
+#htext {
      text-decoration: none;
   }
+
+#date {
+    color: rgb(128, 128, 128);
+    font-size: small;
+ }
+
+.Timb {
+    height: 500px;
+ }
+
+ figure {
+    margin: 0px;
+ }
+
+ figcaption {
+    font-weight: 700;
+    font-size: small;
+ }
+
+ .main-list {
+    padding: 15px;
+ }
+
+ .last-column {
+    width: 50%;
+ }

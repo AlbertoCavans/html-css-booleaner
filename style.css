@@ -1,6 +1,13 @@
+/* Righello laterale */
+.ruler {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Intestazione */
 header {
     background-color: rgb(44, 112, 181);
-    padding-top: 90px;
+    padding-top: 80px;
     background-image: url("./img/pattern.png");
     background-size: 300;   
 }
@@ -9,7 +16,17 @@ header {
     width: 15%;
 }
 
-.ruler {
-    padding-left: 10px;
-    padding-right: 10px;
+h1 {
+    font-size: 80px;
+    margin: 15px 0 0 0;
 }
+
+/* Autore */
+#autor {
+    font-style: normal;
+    color: rgb(128, 128, 128);
+ }
+ 
+ #htext {
+     text-decoration: none;
+  }

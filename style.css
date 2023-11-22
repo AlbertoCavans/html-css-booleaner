@@ -2,9 +2,10 @@ header {
     background-color: rgb(44, 112, 181);
     padding-top: 90px;
     background-image: url("./img/pattern.png");
-   
+    background-size: 300;   
 }
 
 #LogoBooleaner {
     width: 15%;
+    padding-left: 10px;
 }

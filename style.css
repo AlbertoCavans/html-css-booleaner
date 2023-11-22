@@ -9,3 +9,8 @@ header {
     width: 15%;
     padding-left: 10px;
 }
+
+.ruler {
+    padding-left: 10px;
+    padding-right: 10px;
+}

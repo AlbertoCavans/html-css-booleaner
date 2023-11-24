@@ -1,7 +1,7 @@
 /* Righello laterale */
 .ruler {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 150px;
+    padding-right: 150px;
 }
 
 /* Intestazione */
@@ -39,7 +39,7 @@ h1 {
 
 /* Img article */
 .Timb {
-    height: 500px;
+    height: 400px;
  }
 
  figure {
